@@ -7,8 +7,7 @@
 ### [CocoaPods](https://cocoapods.org)
 
 1. Install [CocoaPods](https://cocoapods.org). You can do it with `gem install cocoapods`
-2. Edit your `Podfile` file and add the following line `pod 'RealmSwift'` and `pod 'Firebase/Core'`
-pod 'Firebase/Auth'
+2. Edit your `Podfile` file and add the following line `pod 'Firebase/Core'` and `pod 'Firebase/Auth'`
 3. Update your pods with the command `pod install`
 4. Open the project from the generated workspace (`.xcworkspace` file).
 
